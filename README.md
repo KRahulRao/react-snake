@@ -1,4 +1,4 @@
-react-snake
+React Snake
 ===========
 
 Oversimplified React snake game demo.
@@ -14,5 +14,3 @@ jsx -w src build
 # make some changes
 # load index.html
 ```
-Check it out:
-http://tomocchino.github.io/react-snake/
